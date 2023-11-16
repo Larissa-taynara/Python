@@ -8,20 +8,20 @@ Original file is located at
 """
 
 #EXERCICIOS PYTHON
-
-# **1 - Crie um número aleatório de 10, 5**
 # import random
 
+# **1 - Crie um número aleatório de 10, 5**
 # numero = random.randint(5,10)
 # print(numero)
 
 
 # # **2 - Crie 3 números aleatórios**
-# numero_aleatorio = random.random()
-# print(numero_aleatorio)
+# numero_aleatorio1 = random.random()
+# numero_aleatorio2 = random.random()
+# numero_aleatorio3 = random.random()
+# print(numero_aleatorio1, numero_aleatorio2, numero_aleatorio3)
 
 
 # # **3 - Crie um número aleatório entre 10 a 30 utilize o range()**
-
 # numero = random.randrange(10,30)
 # print(numero)
